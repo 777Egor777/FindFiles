@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FindFiles" target="14" />
+      <module name="FindFiles" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
